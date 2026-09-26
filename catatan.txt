@@ -1,2 +1,5 @@
 26-6-2026
 - tugas algoritma dan pemrograman
+
+27-9-2026
+- tugas Logkom
